@@ -79,16 +79,16 @@ Acceptance Testing – The Acceptance Testing process confirms whether software 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+##Define prompt engineering and discuss its importance in interacting with AI models.
 The practice of prompt engineering entails creating prompts that maximize the effectiveness of AI model interactions. AI models need prompt engineering to generate precise results which match the situation as well as the meaningful information needed by users.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+##Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Example of Improving a Prompt
 
 Vague Prompt: "Tell me about history."
 
 Improved Prompt: "Provide a summary of key events in World War II, including major battles and their outcomes."
 
-Why the Improved Prompt is Better?
+##Why the Improved Prompt is Better?
 
 The specific prompt defines World War II as the topic while outlining major battles and their results which produces a knowledgeable answer.
